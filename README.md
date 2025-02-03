@@ -8,7 +8,7 @@
 
 ## Sistema de Irrigação Inteligente para Agricultura
 
-## Integrantes: Gustavo Henrique da Silva Santos, Guilherme Silva Moreno, Kauã Daniel de Aguiar Ferreira & Lucas Alves Bernardo 
+## Integrantes: <a href="http://linkedin.com/in/gustavo-henrique-da-silva-santos-453822326/?trk=opento_sprofile_topcard">Gustavo Henrique da Silva Santos</a> & <a href="https://www.linkedin.com/in/lucas-alves-bernardo-093871252/">Lucas Alves Bernardo</a> 
 
 ## Professores Orientadores: <a href="https://br.linkedin.com/in/victorbarq">Dr. Victor Rosetti de Queiroz</a>, <a href="https://br.linkedin.com/in/lucymari">Dra. Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Dr. Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/remuniz/">Dra. Renata Muniz do Nascimento</a>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Me. Ronaldo Araujo Pinto</a>
 
